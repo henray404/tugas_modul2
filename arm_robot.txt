@@ -1,0 +1,212 @@
+Current distance: 136.421
+Joint 1: -46.9915 degrees
+Joint 2: 93.983 degrees
+-----
+Current distance: 131.421
+Joint 1: -48.9204 degrees
+Joint 2: 97.8408 degrees
+-----
+Current distance: 136.421
+Joint 1: 43.0085 degrees
+Joint 2: 183.983 degrees
+-----
+Current distance: 131.421
+Joint 1: 41.0796 degrees
+Joint 2: 187.841 degrees
+-----
+Current distance: 126.421
+Joint 1: 39.2057 degrees
+Joint 2: 191.589 degrees
+-----
+Current distance: 121.421
+Joint 1: 37.3806 degrees
+Joint 2: 195.239 degrees
+-----
+Current distance: 116.421
+Joint 1: 35.5989 degrees
+Joint 2: 198.802 degrees
+-----
+Current distance: 111.421
+Joint 1: 33.8559 degrees
+Joint 2: 202.288 degrees
+-----
+Current distance: 136.421
+Joint 1: 43.0085 degrees
+Joint 2: 86.017 degrees
+-----
+Current distance: 131.421
+Joint 1: 41.0796 degrees
+Joint 2: 82.1592 degrees
+-----
+Current distance: 126.421
+Joint 1: 39.2057 degrees
+Joint 2: 78.4115 degrees
+-----
+Current distance: 136.421
+Joint 1: 46.9915 degrees
+Joint 2: 86.017 degrees
+-----
+Current distance: 131.421
+Joint 1: 48.9204 degrees
+Joint 2: 82.1592 degrees
+-----
+Current distance: 126.421
+Joint 1: 50.7943 degrees
+Joint 2: 78.4115 degrees
+-----
+Current distance: 121.421
+Joint 1: 52.6194 degrees
+Joint 2: 74.7612 degrees
+-----
+Current distance: 116.421
+Joint 1: 54.4011 degrees
+Joint 2: 71.1977 degrees
+-----
+Current distance: 111.421
+Joint 1: 56.1441 degrees
+Joint 2: 67.7119 degrees
+-----
+Current distance: 106.421
+Joint 1: 57.8521 degrees
+Joint 2: 64.2958 degrees
+-----
+Current distance: 101.421
+Joint 1: 59.5287 degrees
+Joint 2: 60.9426 degrees
+-----
+Current distance: 96.4214
+Joint 1: 61.1769 degrees
+Joint 2: 57.6462 degrees
+-----
+Current distance: 91.4214
+Joint 1: 62.7994 degrees
+Joint 2: 54.4011 degrees
+-----
+Current distance: 86.4214
+Joint 1: 64.3987 degrees
+Joint 2: 51.2027 degrees
+-----
+Current distance: 81.4214
+Joint 1: 65.9768 degrees
+Joint 2: 48.0464 degrees
+-----
+Current distance: 76.4214
+Joint 1: 67.5358 degrees
+Joint 2: 44.9285 degrees
+-----
+Current distance: 71.4214
+Joint 1: 69.0774 degrees
+Joint 2: 41.8452 degrees
+-----
+Current distance: 66.4214
+Joint 1: 70.6033 degrees
+Joint 2: 38.7934 degrees
+-----
+Current distance: 61.4214
+Joint 1: 72.115 degrees
+Joint 2: 35.7699 degrees
+-----
+Current distance: 56.4214
+Joint 1: 73.614 degrees
+Joint 2: 32.772 degrees
+-----
+Current distance: 51.4214
+Joint 1: 75.1015 degrees
+Joint 2: 29.7969 degrees
+-----
+Current distance: 46.4214
+Joint 1: 76.5789 degrees
+Joint 2: 26.8423 degrees
+-----
+Current distance: 41.4214
+Joint 1: 78.0471 degrees
+Joint 2: 23.9057 degrees
+-----
+Current distance: 36.4214
+Joint 1: 79.5075 degrees
+Joint 2: 20.985 degrees
+-----
+Current distance: 31.4214
+Joint 1: 80.961 degrees
+Joint 2: 18.078 degrees
+-----
+Current distance: 26.4214
+Joint 1: 82.4086 degrees
+Joint 2: 15.1827 degrees
+-----
+Current distance: 21.4214
+Joint 1: 83.8514 degrees
+Joint 2: 12.2971 degrees
+-----
+Current distance: 16.4214
+Joint 1: 85.2903 degrees
+Joint 2: 9.41935 degrees
+-----
+Current distance: 11.4214
+Joint 1: 86.7262 degrees
+Joint 2: 6.54752 degrees
+-----
+Current distance: 6.42136
+Joint 1: 88.1601 degrees
+Joint 2: 3.6798 degrees
+-----
+Current distance: 1.42136
+Joint 1: 89.5928 degrees
+Joint 2: 0.814384 degrees
+-----
+Current distance: -3.57864
+Joint 1: -91.0253 degrees
+Joint 2: 2.05052 degrees
+-----
+Current distance: -8.57864
+Joint 1: -92.4584 degrees
+Joint 2: 4.91671 degrees
+-----
+Current distance: -13.5786
+Joint 1: -93.893 degrees
+Joint 2: 7.78598 degrees
+-----
+Current distance: -18.5786
+Joint 1: -95.3301 degrees
+Joint 2: 10.6601 degrees
+-----
+Current distance: 136.421
+Joint 1: 46.9915 degrees
+Joint 2: 86.017 degrees
+-----
+Current distance: 131.421
+Joint 1: 48.9204 degrees
+Joint 2: 82.1592 degrees
+-----
+Current distance: 126.421
+Joint 1: 50.7943 degrees
+Joint 2: 78.4115 degrees
+-----
+Current distance: 136.421
+Joint 1: 46.9915 degrees
+Joint 2: 86.017 degrees
+-----
+Current distance: 131.421
+Joint 1: 48.9204 degrees
+Joint 2: 82.1592 degrees
+-----
+Current distance: 126.421
+Joint 1: 50.7943 degrees
+Joint 2: 78.4115 degrees
+-----
+Current distance: 121.421
+Joint 1: 52.6194 degrees
+Joint 2: 74.7612 degrees
+-----
+Current distance: 116.421
+Joint 1: 54.4011 degrees
+Joint 2: 71.1977 degrees
+-----
+Current distance: 111.421
+Joint 1: 56.1441 degrees
+Joint 2: 67.7119 degrees
+-----
+Current distance: 106.421
+Joint 1: 57.8521 degrees
+Joint 2: 64.2958 degrees
+-----
